@@ -1,5 +1,8 @@
 ## AIRAVAT PRO Full
 
+Don't forget to add firebase url in classes3.dex search for "databaseURL" and change it to your database url
+
+
 Contact me on telegram if you face any problem
 
 ## Contact Info 
