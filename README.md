@@ -10,7 +10,8 @@ Contact me on telegram if you face any problem
 
 
 ## Video 
-https://user-images.githubusercontent.com/112254347/188287987-521a05ba-8e21-4f88-87d8-2a604093fc80.mp4
+https://user-images.githubusercontent.com/112254347/188288155-6d843d58-443a-4cc7-9306-83869c42b076.mp4
+
 
 
 
