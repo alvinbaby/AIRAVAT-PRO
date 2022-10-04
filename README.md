@@ -6,5 +6,6 @@ https://user-images.githubusercontent.com/112254347/188288155-6d843d58-443a-4cc7
 
 
 ### ❤️Supporters❤️
-[![Stargazers repo roster for @alvinbaby/AIRAVAT-PRO](https://reporoster.com/stars/dark/alvinbaby/AIRAVAT-PRO)](https://github.com/alvinbaby/AIRAVAT-PRO/stargazers)
+https://github.com/Th30neAnd0nly
+
 
