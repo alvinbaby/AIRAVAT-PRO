@@ -1,6 +1,6 @@
-## AIRAVAT PRO Full
+## AIRAVAT PRO
 
-Don't forget to add firebase url in ```classes3.dex``` search for ```databaseURL``` and change it to your database url
+Don't forget to add firebase url in ```smali_classes3/sigma/male/MainActivity.smali``` search for ```databaseURL``` and change it to your database url
 ## Video 
 https://user-images.githubusercontent.com/112254347/188288155-6d843d58-443a-4cc7-9306-83869c42b076.mp4
 
