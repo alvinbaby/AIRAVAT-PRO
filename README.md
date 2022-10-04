@@ -17,8 +17,6 @@ https://user-images.githubusercontent.com/112254347/188288155-6d843d58-443a-4cc7
        <string name="google_storage_bucket">your_storage_bucket_url</string>
        <string name="project_id">project_id</string>
        ```
- 1. Now open__file.
- 1. Replace values of ___
  1. Now compile the code with appt2.
  1. Install the app in victim's device and give all the permissions after that the connection will show up in web panel.
 
