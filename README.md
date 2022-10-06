@@ -9,7 +9,7 @@ Apk error fix 🥰
 ---
 
 ### Android RAT
- [*] Don't forget to add firebase url in ```smali_classes3/sigma/male/MainActivity.smali``` search for ```databaseURL``` and change it to your database url
+ [*] Don't forget to add firebase url in ```smali_classes3/lizord/demon/MainActivity.smali``` search for ```databaseURL``` and change it to your database url
   </div>
   <div class="column">
     <img src="https://github.com/alvinbaby/AIRAVAT-PRO/blob/main/Img/4.jpg" alt="AIRAVAT-PRO" style="width:50%"> <img src="https://github.com/alvinbaby/AIRAVAT-PRO/blob/main/Img/5.jpg" alt="AIRAVAT-PRO" style="width:50%">
