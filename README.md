@@ -41,6 +41,10 @@ Apk error fix 🥰
   </div>
   </div>
 
+## New version coming soon
+<img src="https://github.com/alvinbaby/AIRAVAT-PRO/blob/main/Img/update.jpg" alt="AIRAVAT-PRO" style="width:100%">
+  </div>
+
 ### ❤️Supporters❤️
 *https://github.com/Th30neAnd0nly
 
